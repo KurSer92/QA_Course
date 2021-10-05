@@ -1,3 +1,4 @@
 Kurochkin Sergei Vladimirovich,
+age - 29,
 pets - zero,
 salary - $100500
