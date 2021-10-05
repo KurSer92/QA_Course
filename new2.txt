@@ -1,0 +1,3 @@
+Kurochkin Sergei Vladimirovich,
+pets - zero,
+salary - $100500
