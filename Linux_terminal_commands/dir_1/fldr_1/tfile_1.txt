@@ -1,0 +1,1 @@
+It is the first lesson about bash terminal
