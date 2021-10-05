@@ -3,4 +3,9 @@
 "age":29,
 "pets":0,
 "salary":"$100500"
+"fav_movie":"Lethal Weapon",
+"fav_TV_series":"Game of Thrones",
+"fav_food":"Potatoes",
+"fav_season":"Summer",
+"Country_to_go":"Canada"
 }
