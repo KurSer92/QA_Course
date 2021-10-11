@@ -1,0 +1,13 @@
+ID
+Component
+Severity
+Priority
+Title
+STR
+ExpectedResult
+ActualResult
+Reproducibility
+Workaround
+Environment
+Comments
+Attachments
