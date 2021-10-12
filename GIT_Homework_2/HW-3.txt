@@ -12,6 +12,7 @@ GitHub. HW_2
 	$ git push -u origin master <branch> (выполнить для всех веток для отслеживания удаленным репозиторием)
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 	$ git checkout BugReports
+	$ touch BR_1.txt
 	$ vim BR_1.txt
 4. Запушить структуру багрепорта на внешний репозиторий
 	$ git add BR_1.txt
@@ -24,6 +25,7 @@ GitHub. HW_2
 	$ git push
 7. В ветке CheckLists набросать структуру чек листа.
 	$ git checkout CheckLists
+	$ touch CL_1.txt
 	$ vim CL_1.txt
 8. Запушить структуру на внешний репозиторий
 	$ git add CL_1.txt
