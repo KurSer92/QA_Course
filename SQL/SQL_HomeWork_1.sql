@@ -32,7 +32,7 @@ select name from students where name like '%Анна%'
 select name from students where name like '%8'
 
 --12. Вывести пользователей где в имени в есть буква а
-select name from students where name like '%a'
+select name from students where name like '%a%'
 
 --13. Вывести пользователей которые были созданы 2021-07-12 000000
 select name, created_on from students where created_on = '2021-07-12 000000'
