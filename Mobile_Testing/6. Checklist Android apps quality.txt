@@ -1,0 +1,16 @@
+1. The app correctly preserves and restores app state to its previous state when returning to the foreground and prevents accidental data loss.
+2. Notifications are not used for cross-promotion or advertising another product, as this is strictly prohibited by the Play Store.
+3. The app supports both landscape and portrait orientations (if possible) and folding/unfolding. 
+4. The app displays graphics, text, images, and other UI elements without noticeable distortion, blurring, or pixelation.
+5. Touch targets should be at least 48dp in size.
+6. If audio playback is a core feature, the app should support background playback.
+7. If the app plays video, it should support picture-in-picture playback.
+8. The app does not crash or block the UI thread causing ANR (Android Not Responding) errors. 
+9. The app loads quickly or provides onscreen feedback to the user (ex.: a progress indicator) if the app takes longer than two seconds to load.
+10. The app runs on the latest public version of the Android platform without crashing or severely impacting core functionality.
+11. The app requests only the absolute minimum number of permissions that it needs to support its use case at hand.
+12. The app clearly conveys why certain permissions are needed or follow the recommended flow to explain why it needs a permission.
+13. All sensitive data is stored in the app's internal storage. 
+14. The app supports biometric authentication to protect financial transactions or sensitive information, such as important user documents.
+15. Share data securely across apps. 
+16. All network traffic is sent over SSL.

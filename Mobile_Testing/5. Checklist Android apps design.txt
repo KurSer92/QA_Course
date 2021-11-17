@@ -1,0 +1,20 @@
+1. Material Design reflects the qualities of physical world in how surfaces are displayed and move across the Material UI. Surfaces, and how they move in three dimensions, are communicated in ways that resemble how they move in the physical world. 
+2. All Material Design surfaces, and components, have elevation values which represent relative distance between two surfaces along the z-axis.
+3. Material surfaces cast shadows when they obstruct light sources.
+4. Material Design layouts use uniform elements and spacing to encourage consistency across platforms, environments, and screen sizes.
+5. Screen pixel density and resolution vary depending on the platform.
+6. Material Design’s responsive layout grid adapts to screen size and orientation, ensuring consistency across layouts.
+7. Spacing methods use baseline grids, keylines, padding, and incremental spacing to adjust ratios, containers, and touch targets.
+8. Navigational transitions occur when users move between screens, such as from a home screen to a detail screen.
+9. Search allows users to quickly locate content across an app. Basic search enables users to input a query into a search text field to view related results.
+10. Color is applied to UI elements and components in consistent and meaningful ways.
+11. Color helps express hierarchy, establish brand presence, give meaning, and indicate element states.
+12. A dark theme displays dark surfaces across the majority of a UI.
+13. Use typography to present your design and content as clearly and efficiently as possible.
+14. Sound communicates helpful feedback in ways that express a product’s personality and aesthetic, sound is intuitive, functional, and understandable.
+15. Product icons are the visual expression of a brand’s products, services, and tools. Icons communicate the core idea and intent of a product in a simple, bold, and friendly way. 
+16. System icons are designed to be simple, modern, friendly, and sometimes quirky. Each system  icon is reduced to its minimal form, expressing essential characteristics.
+17. Material surfaces can be displayed in different shapes. Shapes direct attention, identify components, communicate state, and express brand.
+18. Motion focuses attention on what's important, without creating unnecessary distraction and helps users navigate an app.
+19. Gestures let users interact with screen elements using touch.
+20. Confirmation and acknowledgement communications ask for confirmation before taking an action and acknowledge successful actions.

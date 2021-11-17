@@ -1,0 +1,25 @@
+Safety
+1. Apps should not contain offensive content that could hurt people's feelings.
+2. Apps should filter user-generated content before release, block and report offensive content.
+3. Kids Category apps should not contain distracting data or collect information about children.
+4. Health apps should provide accurate data and warn of consequences.
+5. The app should contain up-to-date information to contact the developer.
+Performance
+6. The app must be completed, tested, and contain all required functionality before submission to App Review.
+7. Demos, betas and trials are distributed through the TestFlight service.
+8. The customer should be able to view a complete and accurate description of the intended use of the app before downloading or purchasing it.
+9. Apps should be compatible with as many Apple devices as possible and provide full Functionality.
+10. Apps should run on current OS versions and use publicly available programming interfaces.
+Business
+11. Business model of the app must be obvious.
+12. In-app purchases should be used for subscriptions, unlocking add-ons or new functionality.
+13. Advertising in the app should be limited, obvious and easy to manage.
+Design
+14. Apps should be minimalist, easy to use.
+15. The app should not completely copy existing solutions.
+16. Applications must be functional, carrying a useful load.
+17. Single-type applications without unique functionality will be rejected.
+18. Extensions should not contain internal purchases, advertising. They should include some functionality.
+19. Apps that use third-party or social services to log in should also offer Sign in with Apple as an option.
+Legal
+20. Apps must comply with all legal requirements wherever they are available. 

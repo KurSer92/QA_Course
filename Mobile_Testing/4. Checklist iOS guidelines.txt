@@ -1,0 +1,15 @@
+1. The launch experience should be fast and seamless, avoid showing or asking too much information that can disrupt delightful user experience, show content as fast as possible.
+2. Use actionable simple modal tasks when it’s critical to focus people’s attention on making a choice or performing a task.
+3. Design an information structure that makes it fast and easy to get to content. 
+4. It’s crucial to be transparent about the privacy-related data and resources you require and how you use them.
+5. Ask users for simple and secure way of authentication only in exchange for value, such as personalizing the experience, accessing additional features, purchasing content, or synchronizing data.
+6. Ask for data entry only if it's absolutely necessary and make it as efficient as possible.
+7. Using the device's camera to deliver immersive, engaging experiences that seamlessly blend virtual objects with the real world.
+8. Provide people with adjustable notifications in order to get rich, high-value information they care about.
+9. Design an adaptable interface by configuring UI elements and layouts to automatically change shape and size on different devices.
+10. Design unique color scheme to help people visualize data, communicate status information, provide visual continuity.
+11. Make sure every word in your app is understandable, interface text is clear and prominent.
+12. An app needs a beautiful and memorable icon that attracts attention at a glance.
+13. Use different type of bars to tell people where they are in your app, provide users with quick access to content or displaying information without interfering with the main content.
+14. Use views show the primary content people see in your app,
+15. Design control elements so that people instantly understand how to operate it and what it does.
