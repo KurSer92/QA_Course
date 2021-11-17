@@ -1,0 +1,19 @@
+iOS & iPadOS 15 Release Notes
+
+1. StoreKit 2 introduces a modern Swift-based API that takes advantage of new language features.
+2. Audio Units now provides customizable views that Audio Units can display in iOS.
+3. iPadOS apps can now continue using the camera while presenting multiple windows and being the only application onscreen.
+4. Formatting APIs are now available, which focus on the format and remove the need to create, configure, and cache a formatter instance. 
+5. The default Accept-Language header that URLSession sends has an updated format and corrected values for multiple locales. 
+6. To download a file that shows the app content in the App Privacy Report, choose Settings > Privacy > Record App Activity.
+7. Safari's bottom tab bar has been redesigned to appear below page content.
+8. SwiftUI now supports TextSelection modifiers. 
+9. Specific kinds of SwiftUI animations now execute off the main thread, so there are new thread-safety requirements. 
+10. iCloud+ subscribers can now access and use Hide My Email directly from the Mail app.
+11. iOS 15 and iPadOS 15 introduced the Record App Activity feature in the privacy settings, allowing people to save a summary of sensor, data, and internet access by apps on their device.
+12. Auto Call can now be set up to use one of two methods for initiating an emergency call
+13. You can now control whether to apply a volume envelope to type resources.
+14. The Create ML framework is now available in iOS and iPadOS 15, unlocking new opportunities for building dynamic app experiences that leverage on-device ML.
+15. The Audio Feature Print-based MLSoundClassifier algorithm trains sound classifier models faster, with higher accuracy, lower latency, and a smaller model size. 
+
+
