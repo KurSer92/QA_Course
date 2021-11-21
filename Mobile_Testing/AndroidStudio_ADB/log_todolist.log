@@ -1,0 +1,327 @@
+11489:11-17 21:33:55.595  1610  2520 I ActivityManager: Force stopping com.android.todolist appid=10492 user=0: from process:8877
+11490:11-17 21:33:55.604  1610  2520 I ActivityManager: Force stopping com.android.todolist appid=10492 user=999: from process:8877
+11491:11-17 21:33:55.621  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.todolist flg=0x10 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+11492:11-17 21:33:55.623  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.todolist flg=0x10 (has extras) } to com.mgoogle.android.gms/org.microg.nlp.PackageReceiver
+11596:11-17 21:34:03.355  1610  1757 W PackageManager: Package com.android.todolist signatures do not match previously installed version; ignoring!
+11597:11-17 21:34:03.358  1610  1757 I InstallationStatistic: com.android.todolist|null|4245|379|28|1048|2571|0
+11598:11-17 21:34:03.359  1610  1757 I PackageManagerServiceInjector: MIUILOG-onPackageInstalled: PackageEvent { mTimeStamp=2021-11-17 21:34:03 mAction=Update mPackageName=com.android.todolist mReturnCode=-7 mReturnMsg=Package com.android.todolist signatures do not match previously installed version; ignoring! mVersionCode=0 mVersionName=mInstallerPkgName=
+11600:11-17 21:34:15.406  1610  1727 I ActivityManager: Force stopping com.android.todolist appid=10492 user=-1: deletePackageX
+11601:11-17 21:34:15.431  1610  1757 W PackageManager: com.android.server.pm.Installer$InstallerException: android.os.ServiceSpecificException: Failed to delete /data/user_de/999/com.android.todolist (code 2)
+11604:11-17 21:34:16.084  1610  1757 I ActivityManager: Force stopping com.android.todolist appid=10492 user=0: pkg removed
+11607:11-17 21:34:16.124  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+11608:11-17 21:34:16.140  1610  4080 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+11613:11-17 21:34:16.267  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.instantapps.appmanagement.InstantAppRemoveMonitor
+11623:11-17 21:34:16.325  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.apps.maps/com.google.android.libraries.social.peoplekit.thirdparty.viewcontrollers.ThirdPartyReceiver
+11625:11-17 21:34:16.338  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+11627:11-17 21:34:16.362  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+11628:11-17 21:34:16.363  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+11629:11-17 21:34:16.363  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+11630:11-17 21:34:16.363  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+11631:11-17 21:34:16.364  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.glgm/.data.MyPackageMonitor
+11632:11-17 21:34:16.364  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.mipicks/com.xiaomi.market.data.MyPackageMonitor
+11673:11-17 21:34:17.081  1610  3936 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.xmsf/com.xiaomi.push.service.receivers.PkgUninstallReceiver
+11674:11-17 21:34:17.083  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to cn.com.broadlink.econtrol.international/com.taobao.accs.EventReceiver
+11675:11-17 21:34:17.083  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to cn.com.broadlink.econtrol.international/com.taobao.agoo.AgooCommondReceiver
+11676:11-17 21:34:17.087  1610  2938 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.allgoritm.youla/ru.mail.libverify.utils.PackageStateReceiver
+11677:11-17 21:34:17.098  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+11678:11-17 21:34:17.099  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.idea.backup.smscontacts/.Receiver
+11679:11-17 21:34:17.099  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.mgoogle.android.gms/org.microg.gms.gcm.UnregisterReceiver
+11680:11-17 21:34:17.099  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.mgoogle.android.gms/org.microg.nlp.PackageReceiver
+11681:11-17 21:34:17.099  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.notification.SystemBroadcastReceiver
+11682:11-17 21:34:17.099  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.android.crosssell.PackageStateReceiver
+11683:11-17 21:34:17.099  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.office.notification.SystemBroadcastReceiver
+11684:11-17 21:34:17.101  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.android.crosssell.PackageStateReceiver
+11685:11-17 21:34:17.101  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.swiftkey.swiftkeyconfigurator/.PackageRemovedReceiver
+11686:11-17 21:34:17.102  1610  1727 W BroadcastQueueInjector: Unable to launch app com.vk.mail/10483 for broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) }: process is not permitted to  auto start
+11687:11-17 21:34:17.102  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.vkontakte.android/ru.mail.libverify.utils.PackageStateReceiver
+11688:11-17 21:34:17.102  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to io.moreless.tide/com.taobao.accs.EventReceiver
+11692:11-17 21:34:17.213  1610  1680 W BroadcastQueueInjector: Unable to launch app ru.sberbankmobile/10340 for broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) }: process is not permitted to  auto start
+11731:11-17 21:34:18.999  1610  1610 I ConditionProviders: Disallowing condition provider com.android.todolist
+11738:11-17 21:34:19.153  1610  1727 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_REMOVED
+11842:11-17 21:34:23.377  1610  3920 W BroadcastQueueInjector: Unable to launch app com.duokan.phone.remotecontroller.peel.plugin/10245 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11843:11-17 21:34:23.381  1610  1727 W BroadcastQueueInjector: Unable to launch app com.mgoogle.android.gms/10246 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11844:11-17 21:34:23.382  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.excel/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11845:11-17 21:34:23.383  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.excel/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11846:11-17 21:34:23.383  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.word/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11847:11-17 21:34:23.384  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.word/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11848:11-17 21:34:23.384  1610  1727 W BroadcastQueueInjector: Unable to launch app ru.yandex.translate/10353 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+11851:11-17 21:34:23.474  1610  1681 W BroadcastQueueInjector: Unable to launch app ru.yandex.yandexnavi/10348 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+12057:11-17 21:34:24.919  1610  1757 V BackupManagerService: restoreAtInstall pkg=com.android.todolist token=26 restoreSet=0
+12059:11-17 21:34:24.920  1610  1757 I InstallationStatistic: com.android.todolist|null|8415|749|22|5353|1703|0
+12062:11-17 21:34:24.955  1610  2085 I MiuiCompatModePackages: package com.android.todolist updated, removing config
+12066:11-17 21:34:24.978  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+12067:11-17 21:34:24.978  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+12070:11-17 21:34:25.195  1610  4003 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+12071:11-17 21:34:25.197  1610  2938 I ActivityManager: Force stopping com.android.todolist appid=10493 user=0: from process:9921
+12072:11-17 21:34:25.236  1610  2938 I ActivityManager: Force stopping com.android.todolist appid=10493 user=999: from process:9921
+12073:11-17 21:34:25.269  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.facebook.appmanager/com.facebook.oxygen.common.packages.event.manifest.ManifestPackageEventReceiver
+12074:11-17 21:34:25.335  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+12075:11-17 21:34:25.335  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+12079:11-17 21:34:25.366  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+12080:11-17 21:34:25.366  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+12082:11-17 21:34:25.399  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+12083:11-17 21:34:25.399  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+12084:11-17 21:34:25.403  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.global.packageinstaller/.AppInstalledReceiver
+12085:11-17 21:34:25.404  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+12086:11-17 21:34:25.404  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.glgm/.data.MyPackageMonitor
+12087:11-17 21:34:25.410  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.mipicks/com.xiaomi.market.data.MyPackageMonitor
+12089:11-17 21:34:25.574  1610  4036 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.android.todolist/.MainActivity} from uid 2000
+12100:11-17 21:34:25.895  1610  1680 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+12101:11-17 21:34:25.900  1610  1730 D Boost   : hostingType=activity, hostingName={com.android.todolist/com.android.todolist.MainActivity}, callerPackage=null, isSystem=true, isBoostNeeded=false.
+12102:11-17 21:34:25.900  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.idea.backup.smscontacts/.Receiver
+12103:11-17 21:34:25.900  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.notification.SystemBroadcastReceiver
+12104:11-17 21:34:25.901  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.android.crosssell.PackageStateReceiver
+12105:11-17 21:34:25.901  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.office.notification.SystemBroadcastReceiver
+12106:11-17 21:34:25.901  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.android.crosssell.PackageStateReceiver
+12107:11-17 21:34:25.905  1610  1730 I ActivityManager: Start proc 9968:com.android.todolist/u0a493 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=null
+12108:11-17 21:34:25.906  1610  1727 W BroadcastQueueInjector: Unable to launch app ru.sberbankmobile/10340 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) }: process is not permitted to  auto start
+12154:11-17 21:34:27.025  1610  1727 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_ADDED
+12156:11-17 21:34:27.090  9968  9968 W Activity: Slow Operation: Activity com.android.todolist/.MainActivity onCreate took 534ms
+12157:11-17 21:34:27.121  1610  4003 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.todolist flg=0x10 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+12158:11-17 21:34:27.128  9968  9968 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 890ms late (wall=0ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 387ms (seq=2 running=299ms runnable=55ms io=8ms late=1ms h=android.app.ActivityThread$H w=110), msg 2 took 639ms (seq=3 running=485ms runnable=95ms io=14ms late=252ms h=android.app.ActivityThread$H w=159)
+12159:11-17 21:34:27.138  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.todolist flg=0x10 (has extras) } to com.mgoogle.android.gms/org.microg.nlp.PackageReceiver
+12189:11-17 21:34:27.474  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d457c5d u0 com.android.todolist/.MainActivity t46145} time:112461798
+12283:11-17 21:34:38.577  1610  2616 D PerfShielderService: com.android.todolist|com.android.todolist/com.android.todolist.MainActivity|96|112470952784645|79|5|2
+12284:11-17 21:34:38.577  3898 28035 W MiuiPerfServiceClient: interceptAndQueuing:9968|com.android.todolist|96|79|unknown|null|com.android.todolist/com.android.todolist.MainActivity|112470952784645|Slow issue draw commands|2
+13059:11-17 21:38:45.542  1610  2043 I ActivityManager: Force stopping com.android.todolist appid=10493 user=0: from process:10862
+13060:11-17 21:38:45.546  1610  2043 I ActivityManager: Killing 9968:com.android.todolist/u0a493 (adj 0): stop com.android.todolist: from process:10862
+13061:11-17 21:38:45.557  1610  2043 W ActivityTaskManager: Force removing ActivityRecord{d457c5d u0 com.android.todolist/.MainActivity t46145 f}: app died, no saved state
+13062:11-17 21:38:45.615  1610  2043 I ActivityManager: Force stopping com.android.todolist appid=10493 user=999: from process:10862
+13063:11-17 21:38:45.632  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.todolist flg=0x10 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+13064:11-17 21:38:45.633  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_RESTARTED dat=package:com.android.todolist flg=0x10 (has extras) } to com.mgoogle.android.gms/org.microg.nlp.PackageReceiver
+13426:11-17 21:39:52.432  1610  1727 I ActivityManager: Force stopping com.android.todolist appid=10493 user=0: deletePackageX
+13427:11-17 21:39:52.454  1610  1757 W PackageManager: com.android.server.pm.Installer$InstallerException: android.os.ServiceSpecificException: Failed to delete /data/user_de/999/com.android.todolist (code 2)
+13431:11-17 21:39:53.090  1610  1757 I ActivityManager: Force stopping com.android.todolist appid=10493 user=0: pkg removed
+13437:11-17 21:39:53.134  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+13440:11-17 21:39:53.176  1610  3922 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+13441:11-17 21:39:53.226  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.instantapps.appmanagement.InstantAppRemoveMonitor
+13443:11-17 21:39:53.317  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.apps.maps/com.google.android.libraries.social.peoplekit.thirdparty.viewcontrollers.ThirdPartyReceiver
+13444:11-17 21:39:53.317  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+13445:11-17 21:39:53.317  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+13446:11-17 21:39:53.317  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+13447:11-17 21:39:53.318  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+13448:11-17 21:39:53.319  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+13449:11-17 21:39:53.319  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.glgm/.data.MyPackageMonitor
+13450:11-17 21:39:53.319  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.mipicks/com.xiaomi.market.data.MyPackageMonitor
+13508:11-17 21:39:53.905  1610  3922 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.xmsf/com.xiaomi.push.service.receivers.PkgUninstallReceiver
+13510:11-17 21:39:53.913  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to cn.com.broadlink.econtrol.international/com.taobao.accs.EventReceiver
+13511:11-17 21:39:53.914  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to cn.com.broadlink.econtrol.international/com.taobao.agoo.AgooCommondReceiver
+13512:11-17 21:39:53.917  1610  2975 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.allgoritm.youla/ru.mail.libverify.utils.PackageStateReceiver
+13514:11-17 21:39:53.931  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+13515:11-17 21:39:53.932  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.idea.backup.smscontacts/.Receiver
+13516:11-17 21:39:53.932  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.mgoogle.android.gms/org.microg.gms.gcm.UnregisterReceiver
+13517:11-17 21:39:53.933  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.mgoogle.android.gms/org.microg.nlp.PackageReceiver
+13518:11-17 21:39:53.933  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.notification.SystemBroadcastReceiver
+13519:11-17 21:39:53.933  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.android.crosssell.PackageStateReceiver
+13520:11-17 21:39:53.933  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.office.notification.SystemBroadcastReceiver
+13521:11-17 21:39:53.933  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.android.crosssell.PackageStateReceiver
+13522:11-17 21:39:53.935  1610  1610 I ConditionProviders: Disallowing condition provider com.android.todolist
+13523:11-17 21:39:53.935  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.swiftkey.swiftkeyconfigurator/.PackageRemovedReceiver
+13524:11-17 21:39:53.936  1610  1727 W BroadcastQueueInjector: Unable to launch app com.vk.mail/10483 for broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) }: process is not permitted to  auto start
+13525:11-17 21:39:53.937  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.vkontakte.android/ru.mail.libverify.utils.PackageStateReceiver
+13526:11-17 21:39:53.938  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) } to io.moreless.tide/com.taobao.accs.EventReceiver
+13528:11-17 21:39:53.995  1610  4099 W BroadcastQueueInjector: Unable to launch app ru.sberbankmobile/10340 for broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.todolist flg=0x4000010 (has extras) }: process is not permitted to  auto start
+13533:11-17 21:39:54.143  1610  1727 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_REMOVED
+13592:11-17 21:39:58.428  1610  2616 W BroadcastQueueInjector: Unable to launch app com.duokan.phone.remotecontroller.peel.plugin/10245 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13593:11-17 21:39:58.431  1610  1727 W BroadcastQueueInjector: Unable to launch app com.mgoogle.android.gms/10246 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13594:11-17 21:39:58.432  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.excel/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13595:11-17 21:39:58.434  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.excel/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13596:11-17 21:39:58.434  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.word/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13597:11-17 21:39:58.435  1610  1727 W BroadcastQueueInjector: Unable to launch app com.microsoft.office.word/10295 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13598:11-17 21:39:58.436  1610  1727 W BroadcastQueueInjector: Unable to launch app ru.yandex.translate/10353 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+13599:11-17 21:39:58.499  1610  2043 W BroadcastQueueInjector: Unable to launch app ru.yandex.yandexnavi/10348 for broadcast Intent { act=android.intent.action.PACKAGE_FULLY_REMOVED dat=package:com.android.todolist flg=0x5000010 (has extras) }: process is not permitted to  auto start
+21683:11-17 21:58:41.340  1610  1757 V BackupManagerService: restoreAtInstall pkg=com.android.todolist token=28 restoreSet=0
+21685:11-17 21:58:41.341  1610  1757 I InstallationStatistic: com.android.todolist|null|18141|312|71|10037|7195|0
+21688:11-17 21:58:41.389  1610  2085 I MiuiCompatModePackages: package com.android.todolist updated, removing config
+21692:11-17 21:58:41.441  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.lbe.security.miui/com.lbe.security.service.BootReceiver
+21693:11-17 21:58:41.470  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+21694:11-17 21:58:41.603  1610  3920 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+21698:11-17 21:58:41.648  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.facebook.appmanager/com.facebook.oxygen.common.packages.event.manifest.ManifestPackageEventReceiver
+21700:11-17 21:58:41.689  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+21701:11-17 21:58:41.690  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+21702:11-17 21:58:41.690  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+21703:11-17 21:58:41.690  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+21704:11-17 21:58:41.691  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+21705:11-17 21:58:41.691  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.audioeffect/com.android.musicfx.Compatibility$Receiver
+21706:11-17 21:58:41.691  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.miui.global.packageinstaller/.AppInstalledReceiver
+21707:11-17 21:58:41.691  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.discover/com.xiaomi.market.data.MyPackageMonitor
+21708:11-17 21:58:41.691  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.glgm/.data.MyPackageMonitor
+21709:11-17 21:58:41.691  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.xiaomi.mipicks/com.xiaomi.market.data.MyPackageMonitor
+21758:11-17 21:58:42.349  1610  4099 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.duokan.phone.remotecontroller.peel.plugin/com.peel.srv.receiver.SrvPackageBroadcastReceiver
+21759:11-17 21:58:42.354  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.idea.backup.smscontacts/.Receiver
+21760:11-17 21:58:42.354  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.office.notification.SystemBroadcastReceiver
+21761:11-17 21:58:42.354  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.excel/com.microsoft.android.crosssell.PackageStateReceiver
+21762:11-17 21:58:42.354  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.office.notification.SystemBroadcastReceiver
+21763:11-17 21:58:42.354  1610  1727 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) } to com.microsoft.office.word/com.microsoft.android.crosssell.PackageStateReceiver
+21764:11-17 21:58:42.354  1610  1727 W BroadcastQueueInjector: Unable to launch app ru.sberbankmobile/10340 for broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.todolist flg=0x4000010 (has extras) }: process is not permitted to  auto start
+21776:11-17 21:58:42.603  1610  1727 W XSpaceManagerService: update XSpace App: packageName:com.android.todolist, user:UserHandle{0}, action:android.intent.action.PACKAGE_ADDED
+25154:11-17 22:11:29.531  1610  3159 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[843,1728][1011,1896] (has extras)} from uid 10062
+25158:11-17 22:11:29.607  1610  1730 D Boost   : hostingType=activity, hostingName={com.android.todolist/com.android.todolist.MainActivity}, callerPackage=com.miui.home, isSystem=true, isBoostNeeded=false.
+25159:11-17 22:11:29.607  1610  1730 I ActivityManager: Start proc 19482:com.android.todolist/u0a494 for activity {com.android.todolist/com.android.todolist.MainActivity} caller=com.miui.home
+25214:11-17 22:11:30.350 19482 19482 W Looper  : Slow Looper main: Activity com.android.todolist/.MainActivity is 533ms late (wall=0ms running=0ms ClientTransaction{ callbacks=[android.app.servertransaction.TopResumedActivityChangeItem] }) because of 2 msg, msg 1 took 295ms (seq=2 running=262ms runnable=5ms io=8ms late=1ms h=android.app.ActivityThread$H w=110), msg 2 took 341ms (seq=3 running=274ms runnable=10ms io=19ms late=192ms h=android.app.ActivityThread$H w=159)
+25216:11-17 22:11:30.627  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e53384 u0 com.android.todolist/.MainActivity t46148} time:114684951
+25797:11-17 22:13:26.635  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e53384 u0 com.android.todolist/.MainActivity t46148} time:114800959
+26607:11-17 22:15:53.468  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e53384 u0 com.android.todolist/.MainActivity t46148} time:114947792
+26775:11-17 22:16:17.468  1610  3159 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+26776:11-17 22:16:17.495  1610  3159 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+26782:11-17 22:16:18.224  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ad55e6f u0 com.android.todolist/.About t46148} time:114972548
+26815:11-17 22:16:19.322  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e53384 u0 com.android.todolist/.MainActivity t46148} time:114973646
+26820:11-17 22:16:39.463  1610  4036 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10494
+26821:11-17 22:16:39.489  1610  3159 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+26831:11-17 22:16:40.163  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{94639d u0 com.android.todolist/.ListActivity t46148} time:114994487
+26833:11-17 22:16:41.491  1610  2616 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@40d040
+26835:11-17 22:16:42.045  1610  2973 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10494
+26836:11-17 22:16:42.073  1610  2973 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+26842:11-17 22:16:42.729  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d06651f u0 com.android.todolist/.MainActivity t46148} time:114997053
+27931:11-17 22:18:27.144  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d06651f u0 com.android.todolist/.MainActivity t46148} time:115101467
+28852:11-17 22:19:02.060  2769 10502 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+28856:11-17 22:19:02.072  2769 11949 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+29220:11-17 22:19:19.128  1610  3936 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+29224:11-17 22:19:19.159  1610  3936 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+29230:11-17 22:19:19.232  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+29305:11-17 22:19:19.782  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4c01874 u0 com.android.todolist/.About t46148} time:115154106
+29392:11-17 22:19:22.909  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+29425:11-17 22:19:23.451  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{d06651f u0 com.android.todolist/.MainActivity t46148} time:115157775
+29479:11-17 22:19:23.724  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+29512:11-17 22:19:24.252  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7e53384 u0 com.android.todolist/.MainActivity t46148} time:115158576
+29575:11-17 22:19:24.662  4436  6809 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10062, mForegroundPid=2485, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10494, mLastForegroundPid=19482, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+29576:11-17 22:19:24.662  9694  9941 I GST     : forePkg: com.miui.home, preForePkg: com.android.todolist
+29577:11-17 22:19:24.662  4436  6809 I GameBoosterService: onForegroundInfoChanged: Cur=com.miui.home	 last=com.android.todolist
+29580:11-17 22:19:24.664  4436  6809 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.miui.home', mForegroundUid=10062, mForegroundPid=2485, mLastForegroundPackageName='com.android.todolist', mLastForegroundUid=10494, mLastForegroundPid=19482, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+29823:11-17 22:19:25.767  2485  2485 D Launcher.CellLayout: touch item:ShortcutInfo, id=1211, itemType=0, user=UserHandle{0}, mIconType=0, pkgName=com.android.todolist, className=com.android.todolist.MainActivity, screenId=2, container=-100, cellX=3, cellY=5, spanX=1, spanY=1, isLandscapePos=false
+29864:11-17 22:19:25.828  1610  3922 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity bnds=[843,1728][1011,1896] (has extras)} from uid 10062
+29874:11-17 22:19:25.857  1610  3922 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+29877:11-17 22:19:25.859  9694  9941 I GST     : forePkg: com.android.todolist, preForePkg: com.miui.home
+29878:11-17 22:19:25.859  4436  6809 I ProcessMonitor: onForegroundInfoChanged: ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10494, mForegroundPid=19482, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10062, mLastForegroundPid=2485, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+29879:11-17 22:19:25.860  4436  6809 I GameBoosterService: onForegroundInfoChanged: Cur=com.android.todolist	 last=com.miui.home
+29883:11-17 22:19:25.866  4436  6809 D GameBoosterService: onGameStatusChange foreground:ForegroundInfo{mForegroundPackageName='com.android.todolist', mForegroundUid=10494, mForegroundPid=19482, mLastForegroundPackageName='com.miui.home', mLastForegroundUid=10062, mLastForegroundPid=2485, mMultiWindowForegroundPackageName='null', mMultiWindowForegroundUid=-1, mFlags=0}
+29919:11-17 22:19:25.957  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+30044:11-17 22:19:26.416  1610  2288 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115160740
+30146:11-17 22:19:32.414  1610  2288 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+30149:11-17 22:19:32.442  1610  2288 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+30155:11-17 22:19:32.507  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+30176:11-17 22:19:33.081  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{da7148 u0 com.android.todolist/.About t46149} time:115167404
+30265:11-17 22:19:34.584  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+30355:11-17 22:19:35.131  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115169455
+30399:11-17 22:19:38.524  1610  2615 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10494
+30402:11-17 22:19:38.546 19482 19482 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+30403:11-17 22:19:38.549  1610  2615 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+30412:11-17 22:19:38.636  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+30429:11-17 22:19:39.181  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f5ddd43 u0 com.android.todolist/.ListActivity t46149} time:115173505
+30450:11-17 22:19:40.445  2769 20236 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+30454:11-17 22:19:40.451  2769 20502 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+30466:11-17 22:19:40.548  1610  2615 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@a540503
+30508:11-17 22:19:42.766 19482 19482 I chatty  : uid=10494(com.android.todolist) identical 12 lines
+30568:11-17 22:19:45.193  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+30600:11-17 22:19:45.713  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115180037
+31875:11-17 22:20:46.774  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+32598:11-17 22:21:06.429  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+32980:11-17 22:21:07.507  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+33567:11-17 22:21:07.852  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115262176
+33840:11-17 22:21:23.114  1610  2288 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10494
+33843:11-17 22:21:23.141 19482 19482 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+33844:11-17 22:21:23.143  1610  2288 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+33853:11-17 22:21:23.231  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+33870:11-17 22:21:23.785  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{ed0bc00 u0 com.android.todolist/.ListActivity t46149} time:115278109
+33889:11-17 22:21:24.528  2769 20236 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+33892:11-17 22:21:24.542  2769 20609 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+33922:11-17 22:21:25.140  1610  2074 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@4c73a33
+34114:11-17 22:21:32.791  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+34152:11-17 22:21:33.332  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115287656
+34533:11-17 22:22:04.213  2769 20502 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+34534:11-17 22:22:04.217  2769 20609 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+35089:11-17 22:23:10.754  1610  3922 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10494
+35092:11-17 22:23:10.777 19482 19482 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+35094:11-17 22:23:10.780  1610  2074 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+35103:11-17 22:23:10.860  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+35121:11-17 22:23:11.415  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{8f7a501 u0 com.android.todolist/.ListActivity t46149} time:115385739
+35133:11-17 22:23:12.775  1610  3922 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@505dbc7
+35198:11-17 22:23:18.536  2769 20732 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+35201:11-17 22:23:18.546  2769 20502 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+35264:11-17 22:23:22.557 19482 19482 I chatty  : uid=10494(com.android.todolist) identical 2 lines
+35389:11-17 22:23:27.367  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+35425:11-17 22:23:27.898  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115402221
+36138:11-17 22:23:54.320  1610  3922 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.Info} from uid 10494
+36141:11-17 22:23:54.350  1610  3159 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+36149:11-17 22:23:54.415  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.Info
+36178:11-17 22:23:54.964  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{667efd4 u0 com.android.todolist/.Info t46149} time:115429288
+36346:11-17 22:23:56.377  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+36367:11-17 22:23:56.908  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115431231
+36428:11-17 22:24:04.548  1610  3922 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+36432:11-17 22:24:04.577  1610  3922 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+36438:11-17 22:24:04.635  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+36463:11-17 22:24:05.202  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{901a31e u0 com.android.todolist/.About t46149} time:115439525
+36530:11-17 22:24:06.360  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+36559:11-17 22:24:06.898  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115441222
+38057:11-17 22:25:07.980  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+40653:11-17 22:27:37.099  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+40985:11-17 22:27:38.173  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+41579:11-17 22:27:38.501  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115652825
+42653:11-17 22:27:46.063  1610  3158 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+42656:11-17 22:27:46.092  1610  3158 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+42662:11-17 22:27:46.154  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+42685:11-17 22:27:46.729  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{daef669 u0 com.android.todolist/.About t46149} time:115661053
+45326:11-17 22:29:13.038  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+47730:11-17 22:32:06.267  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+48955:11-17 22:32:17.539  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+50149:11-17 22:33:01.998  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+50473:11-17 22:33:03.098  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+51076:11-17 22:33:03.430  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{daef669 u0 com.android.todolist/.About t46149} time:115977754
+51246:11-17 22:33:04.848  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+51302:11-17 22:33:05.406  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:115979730
+51355:11-17 22:33:09.581  1610  2074 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+51360:11-17 22:33:09.613  1610  3691 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+51366:11-17 22:33:09.676  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+51387:11-17 22:33:10.235  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5825ac5 u0 com.android.todolist/.About t46149} time:115984559
+52963:11-17 22:34:11.158  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+53799:11-17 22:34:40.239  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+54166:11-17 22:34:41.434  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+54802:11-17 22:34:41.759  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{5825ac5 u0 com.android.todolist/.About t46149} time:116076083
+55037:11-17 22:34:45.249  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+55073:11-17 22:34:45.788  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:116080112
+55172:11-17 22:34:51.207  1610  3920 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+55175:11-17 22:34:51.230  1610  3920 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+55181:11-17 22:34:51.290  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+55209:11-17 22:34:51.866  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{293a1b8 u0 com.android.todolist/.About t46149} time:116086190
+56744:11-17 22:35:52.722  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+59093:11-17 22:39:28.580  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+59534:11-17 22:39:29.619  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+60172:11-17 22:39:29.939  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{293a1b8 u0 com.android.todolist/.About t46149} time:116364263
+60435:11-17 22:39:31.595  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+60464:11-17 22:39:32.114  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:116366438
+60676:11-17 22:39:38.371  1610  4036 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+60684:11-17 22:39:38.402  1610  4084 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+60692:11-17 22:39:38.457  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+60707:11-17 22:39:38.502  1610  1726 I ActivityTaskManager: Displayed com.android.todolist/.About: +129ms
+60725:11-17 22:39:39.014  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7028786 u0 com.android.todolist/.About t46149} time:116373338
+62077:11-17 22:40:42.973   883   883 D SurfaceFlinger: [com.android.todolist/com.android.todolist.About#0] need to set alpha 0.0f
+62177:11-17 22:40:43.058   883  2046 D SurfaceFlinger: notifySaveSurface Surface name=com.android.todolist/com.android.todolist.About
+62448:11-17 22:40:43.123  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+63807:11-17 22:41:00.815  5894  6117 D PowerCheckerService: foreground, uid = 10494, app = com.android.todolist
+64260:11-17 22:41:02.253  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+64944:11-17 22:41:02.575  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{7028786 u0 com.android.todolist/.About t46149} time:116456899
+65156:11-17 22:41:03.455  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+65193:11-17 22:41:03.987  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:116458311
+65233:11-17 22:41:06.519  1610  2043 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10494
+65240:11-17 22:41:06.541 19482 19482 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+65241:11-17 22:41:06.543  1610  4084 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+65253:11-17 22:41:06.626  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+65268:11-17 22:41:06.686  1610  1726 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +165ms
+65274:11-17 22:41:07.189  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{13c5dc5 u0 com.android.todolist/.ListActivity t46149} time:116461513
+65294:11-17 22:41:08.559  1610  4080 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@5ec79e1
+65435:11-17 22:41:09.933  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+65463:11-17 22:41:10.470  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:116464794
+65608:11-17 22:41:23.947  1610  4084 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.About} from uid 10494
+65617:11-17 22:41:23.976  1610  4084 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+65626:11-17 22:41:24.029  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.About
+65641:11-17 22:41:24.075  1610  1726 I ActivityTaskManager: Displayed com.android.todolist/.About: +127ms
+65656:11-17 22:41:24.607  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{566066d u0 com.android.todolist/.About t46149} time:116478930
+66129:11-17 22:41:54.818  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+66186:11-17 22:41:55.345  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity t46149} time:116509669
+66255:11-17 22:41:56.491  1610  4084 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.Info} from uid 10494
+66263:11-17 22:41:56.518  1610  4084 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 19482
+66273:11-17 22:41:56.574  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.Info
+66289:11-17 22:41:56.618  1610  1726 I ActivityTaskManager: Displayed com.android.todolist/.Info: +124ms
+66295:11-17 22:41:57.139  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{9a0ff7b u0 com.android.todolist/.Info t46149} time:116511462
+66381:11-17 22:41:58.876  2485  2485 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+66443:11-17 22:41:59.408  1610  1719 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{3f28cf7 u0 com.android.todolist/.MainActivity 
